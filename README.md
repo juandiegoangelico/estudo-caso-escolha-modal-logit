@@ -1,6 +1,6 @@
 # Modelagem da Escolha Modal de Viagens Urbanas — Regressão Logística Binária
 
-Estudo de caso aplicado (Engenharia de Transportes / PPGTG-UFSC) para prever a
+Estudo de caso aplicado para prever a
 probabilidade de escolha do Transporte Público vs. Carro Particular, com base
 em atributos socioeconômicos, da viagem e da oferta de transporte.
 
